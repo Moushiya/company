@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/hexnode-clone/static/css/main.f855e6bc.css",
+    "main.js": "/hexnode-clone/static/js/main.191a5db6.js",
+    "static/js/453.345e0668.chunk.js": "/hexnode-clone/static/js/453.345e0668.chunk.js",
+    "static/media/logo.svg": "/hexnode-clone/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/hexnode-clone/index.html",
+    "main.f855e6bc.css.map": "/hexnode-clone/static/css/main.f855e6bc.css.map",
+    "main.191a5db6.js.map": "/hexnode-clone/static/js/main.191a5db6.js.map",
+    "453.345e0668.chunk.js.map": "/hexnode-clone/static/js/453.345e0668.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.191a5db6.js"
+  ]
+}
